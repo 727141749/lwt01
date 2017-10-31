@@ -1,1 +1,1 @@
-include ':app', ':02kaoshi'
+include ':app', ':02kaoshi', ':02zhouer'

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02kaoshi/02kaoshi.iml" filepath="$PROJECT_DIR$/02kaoshi/02kaoshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/02zhouer/02zhouer.iml" filepath="$PROJECT_DIR$/app/02zhouer/02zhouer.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
